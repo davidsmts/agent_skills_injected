@@ -1,4 +1,6 @@
-# Prompt Injection Agent Skills
+# Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections
+
+**Paper**: [https://www.andriushchenko.me/agent_skills.pdf](https://www.andriushchenko.me/agent_skills.pdf)
 
 ## ⚠️ Important Notice
 
