@@ -2,3 +2,4 @@ rest/
 .DS_Store
 settings.local.json
 workspace/
+*.pptx
